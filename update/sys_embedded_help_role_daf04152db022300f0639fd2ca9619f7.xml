@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_248502_om_constr.catalog_user" name="x_248502_om_constr.catalog_user">d6f04152db022300f0639fd2ca9619f5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-30 09:11:56</sys_created_on>
+        <sys_id>daf04152db022300f0639fd2ca9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d6f04152db022300f0639fd2ca9619f5</sys_name>
+        <sys_package display_value="OM_Constructions" source="x_248502_om_constr">5e700116db022300f0639fd2ca961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="OM_Constructions">5e700116db022300f0639fd2ca961976</sys_scope>
+        <sys_update_name>sys_embedded_help_role_daf04152db022300f0639fd2ca9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-30 09:11:56</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
